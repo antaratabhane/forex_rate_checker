@@ -44,3 +44,5 @@ forex-rate-checker/
 ├── app.js              # Main logic (API calls, event listeners)
 ├── code.js             # Data file (Country list & Currency codes)
 └── README.md           # Project documentation
+
+---
