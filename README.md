@@ -3,8 +3,12 @@
 A simple, responsive, and efficient web application to convert currencies in real-time.
 
 ---
+<br>
 
 <img width="50%" height="50%" alt="Forex Rate Checker" src="https://github.com/user-attachments/assets/5fcc3df9-9e59-477a-ba25-0279c6428850" />
+
+<br>
+<br>
 
 ## 🚀 Features
 
@@ -14,7 +18,11 @@ A simple, responsive, and efficient web application to convert currencies in rea
 * **User-Friendly Interface:** Clean, modern, and intuitive UI for easy navigation.
 * **Swap Functionality:** Quickly swap between "From" and "To" currencies with a single click.
 
+<br>
+
 ---
+<br>
+
 ## 🛠 Tech Stack
 
 * **HTML5:** Structure and semantic markup.
@@ -24,8 +32,11 @@ A simple, responsive, and efficient web application to convert currencies in rea
     * `app.js`: Main application logic, event handling, and DOM manipulation.
     * `code.js`: Helper file containing the list of currency codes and country data.
 
+<br>
+
 ---
 <br>
+
 ## 📡 APIs Used
 
 * **Currency Data:** [ExchangeRate-API](https://www.exchangerate-api.com/)
@@ -33,7 +44,10 @@ A simple, responsive, and efficient web application to convert currencies in rea
 * **Country Flags:** [FlagsAPI](https://flagsapi.com/)
     * Used to dynamically display country flags based on the selected currency code.
 
+<br>
+
 ---
+<br>
 
 ## 📂 Project Structure
 
@@ -44,4 +58,3 @@ forex-rate-checker/
 ├── app.js              # Main logic (API calls, event listeners)
 ├── code.js             # Data file (Country list & Currency codes)
 └── README.md           # Project documentation
-
