@@ -4,7 +4,7 @@ A simple, responsive, and efficient web application to convert currencies in rea
 
 ---
 
-<img width="50%" alt="website photo" src="https://github.com/user-attachments/assets/792e591e-e992-4107-a133-006660fac99e" />
+<img width="50%" alt="Forex Rate Checker" src="https://github.com/user-attachments/assets/5fcc3df9-9e59-477a-ba25-0279c6428850" />
 
 ## 🚀 Features
 
