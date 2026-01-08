@@ -4,7 +4,7 @@ A simple, responsive, and efficient web application to convert currencies in rea
 
 ---
 <br>
- <a href="https://antaratabhane.github.io/forex_rate_checker/">Visit Site</a> <br>
+ <a href="https://antaratabhane.github.io/forex_rate_checker/">Visit Site</a> <br> <br>
 <img width="50%" height="50%" alt="Forex Rate Checker" src="https://github.com/user-attachments/assets/5fcc3df9-9e59-477a-ba25-0279c6428850" />
 
 <br>
