@@ -3,7 +3,7 @@
 A simple, responsive, and efficient web application to convert currencies in real-time.
 
 ---
-<br>
+
 <img width="50%" height="50%" alt="Forex Rate Checker" src="https://github.com/user-attachments/assets/5fcc3df9-9e59-477a-ba25-0279c6428850" />
 
 ## 🚀 Features
@@ -15,7 +15,6 @@ A simple, responsive, and efficient web application to convert currencies in rea
 * **Swap Functionality:** Quickly swap between "From" and "To" currencies with a single click.
 
 ---
-<br>
 ## 🛠 Tech Stack
 
 * **HTML5:** Structure and semantic markup.
@@ -35,7 +34,7 @@ A simple, responsive, and efficient web application to convert currencies in rea
     * Used to dynamically display country flags based on the selected currency code.
 
 ---
-<br>
+
 ## 📂 Project Structure
 
 ```bash
