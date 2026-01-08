@@ -2,7 +2,9 @@
 
 A simple, responsive, and efficient web application to convert currencies in real-time.
 
-<img src="<img width="50%" alt="website photo" src="https://github.com/user-attachments/assets/792e591e-e992-4107-a133-006660fac99e" />
+---
+
+<img width="50%" alt="website photo" src="https://github.com/user-attachments/assets/792e591e-e992-4107-a133-006660fac99e" />
 
 ## 🚀 Features
 
@@ -11,6 +13,8 @@ A simple, responsive, and efficient web application to convert currencies in rea
 * **Responsive Design:** Fully optimized for mobile, tablet, and desktop screens using Bootstrap 5.
 * **User-Friendly Interface:** Clean, modern, and intuitive UI for easy navigation.
 * **Swap Functionality:** Quickly swap between "From" and "To" currencies with a single click.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -21,6 +25,8 @@ A simple, responsive, and efficient web application to convert currencies in rea
     * `app.js`: Main application logic, event handling, and DOM manipulation.
     * `code.js`: Helper file containing the list of currency codes and country data.
 
+---
+
 ## 📡 APIs Used
 
 * **Currency Data:** [ExchangeRate-API](https://www.exchangerate-api.com/)
@@ -28,9 +34,10 @@ A simple, responsive, and efficient web application to convert currencies in rea
 * **Country Flags:** [FlagsAPI](https://flagsapi.com/)
     * Used to dynamically display country flags based on the selected currency code.
 
+---
+
 ## 📂 Project Structure
 
-```bash
 forex-rate-checker/
 │
 ├── index.html          # Main user interface
